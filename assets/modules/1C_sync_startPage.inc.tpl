@@ -1,0 +1,1 @@
+include MODX_BASE_PATH."assets/modules/catalogFill_1C/1С_sync_startPage.inc.php";
